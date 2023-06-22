@@ -23,7 +23,7 @@ while True:
     if resp == 'N':
         break
 print('FIM')
-print(f'O total de compras foi: ${total:.2f}')
+print(f'O total de compras foi de ${total:.2f}')
 if totmil == 0:
     print('Não temos nenhum produto custando mais de $ 1000,00')
 elif totmil == 1:
