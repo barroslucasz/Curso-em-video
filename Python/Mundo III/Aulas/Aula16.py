@@ -10,6 +10,7 @@ print('='*15)
 
 for pos, comida in enumerate(lanche):
     print(f'eu vou comer {comida} na posição {pos}')
+
 print('='*15)
 
 print('comi muuiitoo')
