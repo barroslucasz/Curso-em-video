@@ -29,3 +29,5 @@ while True:
                     print(vogais, end=' ')
     break
 print('----- FIM DO PROGRAMA -----')
+
+# está aula aprendi no dia 25/06/2023!!
