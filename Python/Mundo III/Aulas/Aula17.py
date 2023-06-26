@@ -3,7 +3,7 @@ num[2] = 3 # troca determinado elemento
 num.append(7) # adiciona elemento no fim
 num.sort() # organiza em ordem
 num.insert(2, 0) # insere elemento no lugar do outro
-num.pop() # remove o ultimo elemento
+num.pop() # remove o ultimo elemento ou pelo indice
 num.remove(0) # elimina o primeiro elemento encontrado
 print(num)
 print(f'Essa lista tem {len(num)} elementos')
