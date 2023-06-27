@@ -30,3 +30,5 @@ print(f'O menor valor digitado foi {men} na posição ', end='')
 for i, v in enumerate(valor):
     if v == men:
         print(f'{i}')
+
+# Esta aula aprendi no dia 27/06/2023
