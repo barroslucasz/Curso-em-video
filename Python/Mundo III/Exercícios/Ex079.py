@@ -1,14 +1,16 @@
 valor = []
 while True:
-    for cont in range(1):
-        valor.append(int(input('Digite um valor: ')))
-    print('Valor adicionado com sucesso!')
+    valores = int(input('Digite um valor: '))
+    if valor not in valor:
+        valor.append(valor)
+        print('Valor adicionado com sucesso!')
+    else:
+        print('Valor duplicado!')
     rep = str(input('Quer continuar? [S/N]')).strip().upper()[0]
     print('-='*15)
     if rep == 'N':
         break
     elif rep == 'S':
-        print('Valor adicionado com sucesso!')
         print('-='*15)
 print(f'Você digitou os valores: {sorted(valor)}')
 
