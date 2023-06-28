@@ -5,7 +5,7 @@ if 9 in num:
 else:
     print('O número 9 não foi digitado.')
 if 3 in num:
-    print(f'O número 3 apareceu na posição {num.index(3)+1}')
+    print(f'O número 3 apareceu na posição {num.index(num.)+1}')
 else:
     print('O número 3 não foi digitado.')
 for n in num:
