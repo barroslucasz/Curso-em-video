@@ -45,3 +45,4 @@ for p in totpessoas:
 print('')
 
 # nao conseguir resolver o maior e o menor peso!
+# exercício resolvido no dia 29/06/2023
