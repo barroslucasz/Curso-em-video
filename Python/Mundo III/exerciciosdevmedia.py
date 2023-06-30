@@ -73,11 +73,17 @@ personalidades = ['Martin Luther King Jr.', 'Mahatma Gandhi', 'Abraham Lincoln',
 
 for personalidade in personalidades:
 
-    print(personalidade)'''
+    print(personalidade)
 
 x = 0
 
 if x < 20:
 
     print(x)
-    x = x + 1
+    x = x + 1'''
+
+a = 8
+b = 3
+c = 1
+
+print((a + c) * b)
