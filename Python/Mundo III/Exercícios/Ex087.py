@@ -27,6 +27,6 @@ print(f'[ {lista3[0]:^5} ] [ {lista3[1]:^5} ] [ {lista3[2]:^5} ]')
 print('-='*20)
 print(f'A soma dos números pares é: {par}')
 print(f'A soma da terceira coluna é: {lista1[2]+lista2[2]+lista3[2]}')
-print(f'O maior valor da segunda coluna é: {max(lista2)}')
+print(f'O maior valor da segunda linha é: {max(lista2)}')
 # exercício realizado por mim!
 # atividade feita no dia 01/07/2023
