@@ -9,4 +9,7 @@ while True:
     if continuar == 'N':
         print('-='*20)
         break
-print(nome, nt1, nt2)
+
+print('Nº   Nome    Média')
+print('-='*20)
+print(nome)
