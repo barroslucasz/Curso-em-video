@@ -1,3 +1,5 @@
+# TUPLAS:
+
 num = [2, 5, 9, 1]
 num[2] = 3 # troca determinado elemento
 num.append(7) # adiciona elemento no fim
