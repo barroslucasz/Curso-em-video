@@ -80,10 +80,17 @@ x = 0
 if x < 20:
 
     print(x)
-    x = x + 1'''
+    x = x + 1
 
 a = 8
 b = 3
 c = 1
 
-print((a + c) * b)
+print((a + c) * b)'''
+
+contador = 0
+
+while (contador < 5):
+      print(contador)
+else:
+      print("O loop while foi encerrado com sucesso!")
