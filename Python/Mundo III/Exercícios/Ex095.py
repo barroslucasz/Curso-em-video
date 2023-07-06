@@ -1,3 +1,4 @@
+# inicio do programa aqui apenas estamos lendo os dados do programa!
 time = []
 jogador = {}
 partidas = []
@@ -7,7 +8,7 @@ while True:
     tot = int(input(f'Quantas partidas {jogador["nome"]} jogou? '))
     partidas.clear()
     for c in range(0,tot):
-        partidas.append(int(input(f'Quantos gols na partida {c}? ')))
+        partidas.append(int(input(f'Quantos gols na partida {c+1}? ')))
     jogador['gols'] = partidas[:]
     jogador['total'] = sum(partidas)
     time.append(jogador.copy())
@@ -19,6 +20,8 @@ while True:
     if resp == 'N':
         break
 print('-'*20)
+
+# a partir daqui é a análise de dados solicitados.
 print('Cod', end='')
 for i in jogador.keys():
     print(f'{i:<15}', end='')
@@ -30,16 +33,17 @@ for k, v in enumerate(time):
     print()
 print('-='*20)
 while True:
-    
+    busca = int(input('Mostrar dados de qual jogador? [999 para parar] '))
+    if busca == 999:
+        break
+    if busca >= len(time):
+        print('Erro! Jogador inexistente')
+    else:
+        print(f'--- Levantamento do jogador {time[busca]["nome"]}:')
+        for i, g in enumerate(time[busca]['gols']):
+            print(f'    No jogo {i+1} fez {g} gols.')
+    print('-='*20)
+print('>>> Volte sempre <<<')
 
-'''
-print(jogador)
-print('-='*20)
-for k, v in jogador.items():
-    print(f'o campo {k} tem o valor {v}')
-print('-='*20)
-print(f'O jogador {jogador["nome"]} jogou {len(jogador["gols"])} partidas.')
-for i, v in enumerate(jogador['gols']):
-    print(f'    => Na partida {i}, fez {v} gols.')
-print(f'Foi um total de {jogador["total"]} gols.')
-'''
+# exercício copiado por etapa da resposta do guanabara!!
+# exercício feito no dia 06/07/2023
