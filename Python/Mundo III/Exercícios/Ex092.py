@@ -11,3 +11,4 @@ if dados['CTPS'] != 0:
 print('-='*20)
 for k , v in dados.items():
     print(f'- {k} tem o valor {v}')
+# exercício feito no dia 04/07/2023

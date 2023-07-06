@@ -16,3 +16,4 @@ ranking = sorted(jogo.items(), key=itemgetter(1), reverse=True)
 for i, v in enumerate(ranking):
     print(f'{i+1}º lugar: {v[0]} com {v[1]}.')
     sleep(1)
+# exercício feito no dia 03/07/2023

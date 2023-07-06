@@ -36,3 +36,5 @@ for p in galera:
             print(f'{k} = {v}; ',end='')
         print()
 print('>>> Encerrado <<<')
+
+# exercício feito no dia 06/07/2023
