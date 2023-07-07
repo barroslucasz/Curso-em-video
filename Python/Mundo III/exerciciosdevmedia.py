@@ -86,11 +86,18 @@ a = 8
 b = 3
 c = 1
 
-print((a + c) * b)'''
+print((a + c) * b)
 
 contador = 0
 
 while (contador < 5):
       print(contador)
 else:
-      print("O loop while foi encerrado com sucesso!")
+      print("O loop while foi encerrado com sucesso!")'''
+
+def imprime_tamanho(texto):
+    print(len(texto))
+
+texto = "Eu sou programador Python"
+
+imprime_tamanho(texto)
