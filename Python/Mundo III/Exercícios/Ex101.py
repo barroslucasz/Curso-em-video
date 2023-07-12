@@ -9,9 +9,11 @@ def votacao (num=0):
         print(f'Com {idade} anos: VOTO NEGADO!')
     elif idade >= 70:
         print(f'Com {idade} anos: VOTO OPCIONAL!')
-        
+
     return idade
 
 
 n = int(input('Digite seu ano de nascimento: '))
 votacao()
+
+# não consegui realizar esta atividade! amanhã corrijo com o guanabara!
