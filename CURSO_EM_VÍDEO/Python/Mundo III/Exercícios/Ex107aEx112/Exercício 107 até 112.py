@@ -1,11 +1,10 @@
-import moedas
+from Ex107aEx112.utilidadescev import moeda
+
 
 # programa principal
 
 p = float(input('Digite um preço R$: '))
-moedas.resumo(p, 10)
-
-
+moeda.resumo(p, 10)
 
 
 '''print(f'A metade de {moedas.moeda(p)} é igual a {moedas.metade(p, True)}')
