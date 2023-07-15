@@ -1,9 +1,9 @@
-from Ex107aEx112.utilidadescev import moeda
-
+from utilidadescev import moeda
+from utilidadescev import dado
 
 # programa principal
 
-p = float(input('Digite um preço R$: '))
+p = dado.leiadinheiro('Digite o preço R$: ')
 moeda.resumo(p, 10)
 
 
