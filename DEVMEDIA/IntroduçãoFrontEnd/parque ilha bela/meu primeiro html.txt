@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Parque Estadual Ilha Bela</title>
+    </head>
+    <body>
+        <div>
+            <h1>Parque Estadual Ilha Bela</h1>
+            <img src="parque.jpg" alt="Parque Ilha Bela" width="800" height="300">
+        </div>
+        <div>
+            <h2>O lugar ideal para momentos inesquecivéis</h2>
+            <p>Fundado em 1992, o Parque Estadual Ilha Bela é o lugar ideal para você desfrutar de ótimos momentos. Anualmente 2 Milhões de visitantes passam pelo parque para conhecer o local. Veja o que o parque oferece:</p>
+        <h3> TRANQUILIDADE E SEGURANÇA:</h3>
+        <p>Por todo o parque é possivel ver um clima de tranquilidade e segurança. É o lugar perfeito para se reunir com amigos, familiares ou até mesmo para visitar sozinho.</p>
+        <h3>PAISAGENS DE TIRAR O FÔLEGO:</h3>
+        <p>Diversos tipos de paisagens podem ser vistas ao longo do parque, então é garantia de fotos incriveis de todos os tipo</P>
+        <h3> ENTRADA FRANCA:</h3>
+        <p>A entrada no parque é totalmente gratuita. A exceção fica por conta de algumas atividades que podem ser feitas no local. Para mais informações entre em contato <a href="tel:+5581981129530"> clique aqui</a> <p>
+
+        </div>
+    </body>
+</html>

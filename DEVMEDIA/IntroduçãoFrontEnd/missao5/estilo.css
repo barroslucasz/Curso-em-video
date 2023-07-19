@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+
+.teste{
+    background-image: url('img/missao5.jpg');
+    width: 800px;
+    height: 800px;
+    color: #fff;
+    text-align: center;
+
+}
