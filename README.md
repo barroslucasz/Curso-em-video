@@ -1,1 +1,1 @@
-Aqui neste repositório tem apenas minhas aulas e meus exercícios.
+Contém apenas minhas aulas e meus exercícios de Python
