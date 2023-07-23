@@ -1,1 +1,1 @@
-Contém apenas minhas aulas e meus exercícios de Python
+Contém apenas minhas aulas e meus exercícios.
