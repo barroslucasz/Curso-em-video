@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aula01/Aula01.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aula01/Aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aula02/Aula02.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aula02/Aula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aula06/Aula06.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aula06/Aula06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Javaa/Aulaa/Aulaa.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Javaa/Aulaa/Aulaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Estudos.iml" filepath="$PROJECT_DIR$/.idea/Estudos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/TiposPrimitivos/TiposPrimitivos.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/TiposPrimitivos/TiposPrimitivos.iml" />
+    </modules>
+  </component>
+</project>
