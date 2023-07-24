@@ -58,5 +58,6 @@ public class Main {
         double ale = Math.random();
         int n = (int) (5 + ale *(10-5)); // isso tudo para poder gerar um numero entre 5 e 10
         System.out.println(n);
+
     }
 }
