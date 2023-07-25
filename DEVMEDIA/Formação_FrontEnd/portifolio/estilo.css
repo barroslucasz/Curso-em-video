@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+h1{
+    color: azure;
+    text-align: center;
+}
+div.logos{
+    text-align: center;
+    width: 300px;
+    display: inline-block;
+}
