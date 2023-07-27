@@ -6,14 +6,18 @@ public class Main {
         System.out.println("-=-=-= VERIFICADOR DE OBRIGATORIEDADE DE VOTAÇÃO -=-=-=");
         System.out.println("");
         System.out.print("Digite sua idade: ");
-        int idade = teclado.nextInt();
-        if (idade>=18){
-            System.out.println("Voce tem voto OBRIGATÓRIO!");
-        } else if (idade<16) {
-            System.out.println("Seu voto NÃO É OBRIGATÓRIO!");
-        } else if (idade>=70) {
-            System.out.println("Seu voto NÃO É OBRIGATÓRIO!");
+        int ano = teclado.nextInt();
+        int idade = 2023 - ano;
+        if (idade <16){
+            System.out.println("Proibido Votar com "+idade);
         }
-
+        else {
+            if ((idade>=16 && idade <18) || (idade>70)){
+                System.out.println("Voto opcional com "+idade);
+            }
+            else {
+                System.out.println("Voto Obrigatório com "+idade);
+            }
+        }
     }
 }
