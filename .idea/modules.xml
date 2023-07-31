@@ -6,14 +6,28 @@
       <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aula02/Aula02.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aula02/Aula02.iml" />
       <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aula06/Aula06.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aula06/Aula06.iml" />
       <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Javaa/Aulaa/Aulaa.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Javaa/Aulaa/Aulaa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/EstruturasCondicionais/EstruturasCondicionais.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/EstruturasCondicionais/EstruturasCondicionais.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/EstruturasRepeticao/EstruturasRepeticao.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/EstruturasRepeticao/EstruturasRepeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/Aulas.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/Aulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/EstruturasCondicionais/EstruturasCondicionais.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/EstruturasCondicionais/EstruturasCondicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/EstruturasRepeticao/EstruturasRepeticao.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/EstruturasRepeticao/EstruturasRepeticao.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Estudos.iml" filepath="$PROJECT_DIR$/.idea/Estudos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/EstruturasCondicionais/MultiplaEscolha/MultiplaEscolha.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/EstruturasCondicionais/MultiplaEscolha/MultiplaEscolha.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/OperadoresAritmeticos/OperadoresAritmeticos.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/OperadoresAritmeticos/OperadoresAritmeticos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/OperadoresLogicoseRelacionais/OperadoresLogicoseRelacionais.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/OperadoresLogicoseRelacionais/OperadoresLogicoseRelacionais.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/EstruturasCondicionais/SistemaVotacao/SistemaVotacao.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/EstruturasCondicionais/SistemaVotacao/SistemaVotacao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/TiposPrimitivos/TiposPrimitivos.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/TiposPrimitivos/TiposPrimitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex001/Ex001.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex001/Ex001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex002/Ex002.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex002/Ex002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex003/Ex003.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex003/Ex003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex004/Ex004.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex004/Ex004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex005/Ex005.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex005/Ex005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex006/Ex006.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex006/Ex006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex007/Ex007.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex007/Ex007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex008/Ex008.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex008/Ex008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex009/Ex009.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex009/Ex009.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex010/Ex010.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex010/Ex010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex011/Ex011.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex011/Ex011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex012/Ex012.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Ex012/Ex012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/EstruturasCondicionais/MultiplaEscolha/MultiplaEscolha.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/EstruturasCondicionais/MultiplaEscolha/MultiplaEscolha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/OperadoresAritmeticos/OperadoresAritmeticos.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/OperadoresAritmeticos/OperadoresAritmeticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/OperadoresLogicoseRelacionais/OperadoresLogicoseRelacionais.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/OperadoresLogicoseRelacionais/OperadoresLogicoseRelacionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/EstruturasCondicionais/SistemaVotacao/SistemaVotacao.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/EstruturasCondicionais/SistemaVotacao/SistemaVotacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/TiposPrimitivos/TiposPrimitivos.iml" filepath="$PROJECT_DIR$/CURSO_EM_VÍDEO/Java/Aulas/TiposPrimitivos/TiposPrimitivos.iml" />
     </modules>
   </component>
 </project>
