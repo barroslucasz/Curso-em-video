@@ -1,25 +1,13 @@
 body{
-    min-height: 100vh;
-    background-color: rgba(25, 25,25, 0.90);
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 1rem;
+    background-color: black;
 }
 
-.imagem{
-    height: 150px;
-    width: 100px;
-    background-color: beige;
-    border-radius: 10px;
-}
-.imagem:hover{
-    transform: scale(1.05);
-    transition: .6s;
+.item{
+    transition: .35s;
+    cursor: pointer;
 }
 
-.texto{
-    text-align: center;
+.container:hover > :not(:hover){
+    opacity: .4;
+    transform: scale(0.9);
 }

@@ -32,6 +32,16 @@ img{
     animation: cursor 600ms steps(30) infinite normal, texto 3s steps(30) 1s normal both;
 }
 
+.item{
+    transition: .35s;
+    cursor: pointer;
+}
+
+.container:hover > :not(:hover){
+    opacity: .4;
+    transform: scale(0.9);
+}
+
 @keyframes texto {
     from{
         width: 0;
