@@ -103,5 +103,3 @@ texto = "Eu sou programador Python"
 imprime_tamanho(texto)
 
 print('Olá, mundo!')
-
-# aff só fiz isso para não perder o verdinho do github kkkkk fuiii
