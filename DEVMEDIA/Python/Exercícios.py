@@ -95,7 +95,7 @@ while (contador < 5):
 else:
       print("O loop while foi encerrado com sucesso!")'''
 
-def imprime_tamanho(texto):
+'''def imprime_tamanho(texto):
     print(len(texto))
 
 texto = "Eu sou programador Python"
@@ -103,3 +103,4 @@ texto = "Eu sou programador Python"
 imprime_tamanho(texto)
 
 print('Olá, mundo!')
+'''
